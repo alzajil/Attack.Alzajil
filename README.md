@@ -1,6 +1,7 @@
 pkg update
 pkg upgred
 git clone https://github.com/alzajil/Attack.Alzajil/blob/main/Attack.facebook.py
+
 ls
 cd Attack.facebook
 chmod +x Attack.facebook.py
